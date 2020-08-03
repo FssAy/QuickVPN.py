@@ -1,5 +1,6 @@
 # QuickVPN.py
 Modifed async version of "[vpngate.py](https://gist.github.com/Lazza/bbc15561b65c16db8ca8)" script by "[Andrea Lazzarotto](https://andrealazzarotto.com/)" with threading option for Windows. <br>
+You need to get openvpn in order to install a virtual network adapter.
 
 # Usage
 Import QuickVPN.py to your project. (Make sure to include *Exceptions.py* script and whole *bin* folder)
